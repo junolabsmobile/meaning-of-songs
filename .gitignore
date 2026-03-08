@@ -1,0 +1,17 @@
+# Go
+/bin/
+*.exe
+
+# Node
+web/node_modules/
+web/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+bash.exe.stackdump
